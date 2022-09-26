@@ -1,0 +1,87 @@
+const PALL = [
+    {
+        id:1,
+        title:"Orange Silk Printed Palazzo Suit with Jacket",
+        desc:"Shop with the variety of anarkali suits from our shop. choose perfect suit for yourself, perfect for your festivals, family occassions, parties, etc, and style with jewellaries to complete the look and look beautiful",
+        price:9720,
+        img:"../images/Pallazo/pallazo.WEBP",
+    },
+    {
+        id:2,
+        title:"Light Blue Chiffon Georgette Embroidered Palazzo Suit",
+        desc:"Shop with the variety of anarkali suits from our shop. choose perfect suit for yourself, perfect for your festivals, family occassions, parties, etc, and style with jewellaries to complete the look and look beautiful",
+        price:8120,
+        img:"../images/Pallazo/pallazo2.WEBP",
+    },
+    {
+        id:3,
+        title:"Black Georgette Fancy Palazzo Suit",
+        desc:"Shop with the variety of anarkali suits from our shop. choose perfect suit for yourself, perfect for your festivals, family occassions, parties, etc, and style with jewellaries to complete the look and look beautiful",
+        price:6820,
+        img:"../images/Pallazo/pallazo3.WEBP",
+    },
+    {
+        id:4,
+        title:"Lime Green Cotton Silk Palazzo Suit with Lace",
+        desc:"Shop with the variety of anarkali suits from our shop. choose perfect suit for yourself, perfect for your festivals, family occassions, parties, etc, and style with jewellaries to complete the look and look beautiful",
+        price:9660,
+        img:"../images/Pallazo/pallazo4.WEBP",
+    },
+    {
+        id:5,
+        title:"Lilac Purple Chiffon Georgette Mirror Worked Palazzo Suit",
+        desc:"Shop with the variety of anarkali suits from our shop. choose perfect suit for yourself, perfect for your festivals, family occassions, parties, etc, and style with jewellaries to complete the look and look beautiful",
+        price:9990,
+        img:"../images/Pallazo/pallazo5.WEBP",
+    },
+    {
+        id:6,
+        title:"Black Georgette Embroidered Palazzo Suit",
+        desc:"Shop with the variety of anarkali suits from our shop. choose perfect suit for yourself, perfect for your festivals, family occassions, parties, etc, and style with jewellaries to complete the look and look beautiful",
+        price:6340,
+        img:"../images/Pallazo/pallazo6.WEBP",
+    },
+    {
+        id:7,
+        title:"Moss Green Georgette Anarkali Palazzo Suit",
+        desc:"Shop with the variety of anarkali suits from our shop. choose perfect suit for yourself, perfect for your festivals, family occassions, parties, etc, and style with jewellaries to complete the look and look beautiful",
+        price:6120,
+        img:"../images/Pallazo/pallazo7.WEBP",
+    },
+    {
+        id:8,
+        title:"Mauve Georgette Crop Top Palazzo Suit with Attached Dupatta",
+        desc:"Shop with the variety of anarkali suits from our shop. choose perfect suit for yourself, perfect for your festivals, family occassions, parties, etc, and style with jewellaries to complete the look and look beautiful",
+        price:7800,
+        img:"../images/Pallazo/pallazo8.WEBP",
+    },
+    {
+        id:9,
+        title:"Peach Chinon Straight Cut Palazzo Suit",
+        desc:"Shop with the variety of anarkali suits from our shop. choose perfect suit for yourself, perfect for your festivals, family occassions, parties, etc, and style with jewellaries to complete the look and look beautiful",
+        price:4680,
+        img:"../images/Pallazo/pallazo9.WEBP",
+    },
+    {
+        id:10,
+        title:" Peach Chinon Straight Cut Palazzo Suit",
+        desc:"Shop with the variety of anarkali suits from our shop. choose perfect suit for yourself, perfect for your festivals, family occassions, parties, etc, and style with jewellaries to complete the look and look beautiful",
+        price:4440,
+        img:"../images/Pallazo/pallazo10.WEBP",
+    },
+    {
+        id:11,
+        title:"Sea Green Georgette Sequinned Palazzo Suit",
+        desc:"Shop with the variety of anarkali suits from our shop. choose perfect suit for yourself, perfect for your festivals, family occassions, parties, etc, and style with jewellaries to complete the look and look beautiful",
+        price:4320,
+        img:"../images/Pallazo/pallazo11.WEBP",
+    },
+    {
+        id:12,
+        title:"Light Grey Georgette Palazzo Suit",
+        desc:"Shop with the variety of anarkali suits from our shop. choose perfect suit for yourself, perfect for your festivals, family occassions, parties, etc, and style with jewellaries to complete the look and look beautiful",
+        price:5180,
+        img:"../images/Pallazo/pallazo12.WEBP",
+    }
+]
+export default PALL

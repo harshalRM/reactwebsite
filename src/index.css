@@ -1,3 +1,8 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lusitana:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +15,60 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.banner{
+  width: 100%;
+  height: 800px;
+  background-image: url("/public/images/dandiya.webp");
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: 100%, 100%;
+}
+.texts {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 50%);
+}
+.bottom-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+.name{
+  font-family: 'Great Vibes', cursive;
+  letter-spacing: 8px;
+}
+.card-title{
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.1em;
+}
+.title{
+  font-family: 'Lusitana', serif;
+  font-size: 1.8rem;
+}
+.navbar-nav li a{
+  font-size: 20px;
+}
+#hero{
+  background-image: url("/public/images/dandiya.webp");
+  height: 99vh;
+  width: 100%;
+  background-size: cover;
+  background-position: left 25% top;
+  padding: 0 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.main{
+  /* font-family: 'Italianno', cursive; */
+  font-family: 'Roboto Slab', serif;
+  letter-spacing: 8px;
 }
